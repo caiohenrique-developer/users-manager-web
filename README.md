@@ -1,5 +1,10 @@
 # React + TypeScript + Vite
 
+
+### To access the API go to [API repository](https://github.com/caiohenrique-developer/users-manager-api).
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
