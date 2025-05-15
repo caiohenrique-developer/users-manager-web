@@ -44,6 +44,7 @@ export function TableList<TData, TValue>({
 	const [rowSelection, setRowSelection] = React.useState({});
 
 	const table = useReactTable({
+		// @ts-ignore
 		data,
 		columns,
 		onSortingChange: setSorting,
