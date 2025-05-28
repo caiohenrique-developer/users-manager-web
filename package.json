@@ -6,10 +6,10 @@
 	"scripts": {
 		"dev": "vite",
 		"build": "tsc -b && vite build",
+		"preview": "vite preview",
 		"biome:lint": "yarn biome lint --write ./src",
 		"biome:format": "yarn biome format --write ./src",
-		"biome:check": "yarn biome check ./src",
-		"preview": "vite preview"
+		"biome:check": "yarn biome check ./src"
 	},
 	"dependencies": {
 		"@hookform/resolvers": "^5.0.1",
