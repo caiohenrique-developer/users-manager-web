@@ -1,3 +1,3 @@
-type User = { id: string; name: string; email: string; role: string };
+type User = { id: string; name: string; email: string; role: string }
 
-export type { User };
+export type { User }

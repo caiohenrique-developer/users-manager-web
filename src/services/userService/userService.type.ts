@@ -1,16 +1,16 @@
-type UserIDProps = { id: string };
+type UserIDProps = { id: string }
 
 type UserDataProps = {
-	name: string;
-	email: string;
-	password: string;
-	role: string;
-};
+  name: string
+  email: string
+  password: string
+  role: string
+}
 
 type ResponsePattern = {
-	status: number;
-	message?: string;
-};
+  status: number
+  message?: string
+}
 
 // Request
 interface PostCreateUserProps extends UserDataProps {}
@@ -19,25 +19,25 @@ interface DeleteUserProps extends UserIDProps {}
 
 // Response
 interface GetUsersPromise extends ResponsePattern {
-	data?: Array<UserIDProps & Omit<UserDataProps, "password">>;
+  data?: Array<UserIDProps & Omit<UserDataProps, 'password'>>
 }
 
 interface PostCreateUserPromise extends ResponsePattern {
-	data?: UserIDProps & Omit<UserDataProps, "password">;
+  data?: UserIDProps & Omit<UserDataProps, 'password'>
 }
 
 interface PutUpdateUserPromise extends ResponsePattern {
-	data?: UserIDProps & Omit<UserDataProps, "password">;
+  data?: UserIDProps & Omit<UserDataProps, 'password'>
 }
 
 interface DeleteUserPromise extends ResponsePattern {}
 
 export type {
-	DeleteUserPromise,
-	DeleteUserProps,
-	GetUsersPromise,
-	PostCreateUserPromise,
-	PostCreateUserProps,
-	PutUpdateUserPromise,
-	PutUpdateUserProps,
-};
+  DeleteUserPromise,
+  DeleteUserProps,
+  GetUsersPromise,
+  PostCreateUserPromise,
+  PostCreateUserProps,
+  PutUpdateUserPromise,
+  PutUpdateUserProps,
+}

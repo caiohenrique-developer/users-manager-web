@@ -1,11 +1,11 @@
-import type { ComponentProps } from "react";
+import type { ComponentProps } from 'react'
 
-interface InputRootProps extends ComponentProps<"div"> {
-	error?: boolean;
+interface InputRootProps extends ComponentProps<'div'> {
+  error?: boolean
 }
 
-interface InputFieldProps extends ComponentProps<"input"> {}
+interface InputFieldProps extends ComponentProps<'input'> {}
 
-interface InputIconProps extends ComponentProps<"i"> {}
+interface InputIconProps extends ComponentProps<'i'> {}
 
-export type { InputFieldProps, InputIconProps, InputRootProps };
+export type { InputFieldProps, InputIconProps, InputRootProps }

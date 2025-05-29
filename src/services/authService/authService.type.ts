@@ -1,1 +1,1 @@
-export type PostLoginServiceProps = { email: string; password: string };
+export type PostLoginServiceProps = { email: string; password: string }
