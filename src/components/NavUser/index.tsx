@@ -1,5 +1,6 @@
 import { BadgeCheck, Bell, ChevronsUpDown, LogOut } from "lucide-react";
 
+import { useNavUserModel } from "@/components/NavUser/NavUser.model";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { Button } from "@/components/ui/button";
 import {
@@ -17,7 +18,6 @@ import {
 	SidebarMenuItem,
 	useSidebar,
 } from "@/components/ui/sidebar";
-import { useNavUserModel } from "./NavUser.model";
 
 export function NavUser() {
 	const { isMobile } = useSidebar();
@@ -34,7 +34,7 @@ export function NavUser() {
 						>
 							<Avatar className="h-8 w-8 rounded-lg">
 								<AvatarImage
-									src="https://i.pravatar.cc/150?img=68"
+									src={userInfo.isUser.profileImg}
 									alt="Foto de perfil do usuário"
 								/>
 								<AvatarFallback className="rounded-lg">CN</AvatarFallback>
@@ -44,7 +44,7 @@ export function NavUser() {
 									{userInfo.userName}
 								</strong>
 								<span className="text-gray-950 truncate text-xs">
-									{userInfo.isUser}
+									{userInfo.isUser.role}
 								</span>
 							</div>
 							<ChevronsUpDown className="ml-auto size-4" />
@@ -61,7 +61,7 @@ export function NavUser() {
 							<div className="flex items-center gap-2 px-1 py-1.5 text-left text-sm">
 								<Avatar className="h-8 w-8 rounded-lg">
 									<AvatarImage
-										src="https://i.pravatar.cc/150?img=68"
+										src={userInfo.isUser.profileImg}
 										alt="Foto de perfil do usuário"
 									/>
 									<AvatarFallback className="rounded-lg">CN</AvatarFallback>

@@ -12,7 +12,7 @@ export function LoginPageFooter() {
 				<Link
 					to="https://github.com/caiohenrique-developer/users-manager-web"
 					target="_blank"
-					rel="noreferrer"
+					rel="noopener noreferrer"
 					className="relative inline-block font-bold ml-2.5 after:content-[''] after:absolute after:bottom-[-2px] after:left-0 after:w-0 after:h-[2px] after:bg-purple after:transition-all after:duration-300 hover:after:w-full"
 				>
 					💻 caiohenrique-developer

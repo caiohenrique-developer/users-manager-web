@@ -44,9 +44,8 @@ const columns: ColumnDef<User>[] = [
 
 			return (
 				<Button
-					variant="outline"
+					variant="ghost"
 					onClick={() => handleEditUser({ id, name, email, role })}
-					className="border-orange-300"
 				>
 					<Edit variant="Bulk" className="size-5 text-orange-400" />
 				</Button>
@@ -62,11 +61,7 @@ const columns: ColumnDef<User>[] = [
 			const { handleRemoveUser } = useColumnsModel();
 
 			return (
-				<Button
-					variant="outline"
-					onClick={() => handleRemoveUser(id)}
-					className="border-red-300"
-				>
+				<Button variant="ghost" onClick={() => handleRemoveUser(id)}>
 					<Trash variant="Bulk" className="size-5 text-red-400" />
 				</Button>
 			);

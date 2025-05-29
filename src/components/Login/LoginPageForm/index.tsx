@@ -27,7 +27,7 @@ export function LoginPageForm() {
 								<InputRoot error={!!form.formState.errors.email}>
 									<InputField
 										type="email"
-										placeholder="username@example.com"
+										placeholder="Ex: john@doe.com"
 										{...field}
 									/>
 								</InputRoot>
@@ -46,7 +46,7 @@ export function LoginPageForm() {
 								<InputRoot error={!!form.formState.errors.password}>
 									<InputField
 										type="password"
-										placeholder="Password"
+										placeholder="Senha: 1234"
 										{...field}
 									/>
 									<InputIcon className="right-4">
