@@ -24,28 +24,14 @@
   <span>&nbsp;|&nbsp;<span/>
   <a href="#-how-to-use-grey_question">❔ How To Use</a>
   <!-- <span>|<span/> -->
+  <a href="#-prerequisites-warning">⚠️ Prerequisites</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
 </p>
 
 <br />
 
 <p align="center">
-  <img alt="Streamovie background image" src="src/assets/streamovie-details-page.png" width="80%" />
+  <img alt="Streamovie background image" src="src/assets/streamovie-details-page.png" width="80%" style="border-radius: 30px" />
 </p>
-
-<p align="center">
-  <img alt="Streamovie background image" src="src/assets/logo-google.svg" width="100px" />
-</p>
-
-<a href="https://streamovie.yourdomain.com">
-  <img src="src/assets/logo-facebook.svg" style="width: 100px; margin-right: 20px" />
-</a>
-
-<a href="https://streamovie.yourdomain.com">
-  <img src="src/assets/Streamovie-logo-2.svg" style="width: 100px; margin-right: 20px" />
-  <img src="src/assets/react.svg" style="width: 100px; margin-right: 20px" />
-  <img src="src/assets/streamovie-details-page.png" style="width: 100px; margin-right: 20px" />
-</a>
-
 
 <br/>
 
@@ -65,6 +51,7 @@
 
 <br />
 
+## [🔝](#top) Prerequisites :warning:
 <strong style="display: flex; align-items: center; justify-content: space-between; font-size: 18px;">📂 Pages structure<a href="#top" name="roadmap" style="font-size: 20px;">🔝</a></strong>
 
 ###### 🏠 Home (`/`)
