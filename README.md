@@ -32,6 +32,21 @@
   <img alt="Streamovie background image" src="src/assets/streamovie-details-page.png" width="80%" />
 </p>
 
+<p align="center">
+  <img alt="Streamovie background image" src="src/assets/logo-google.svg" width="100px" />
+</p>
+
+<a href="https://streamovie.yourdomain.com">
+  <img src="src/assets/logo-facebook.svg" style="width: 100px; margin-right: 20px" />
+</a>
+
+<a href="https://streamovie.yourdomain.com">
+  <img src="src/assets/Streamovie-logo-2.svg" style="width: 100px; margin-right: 20px" />
+  <img src="src/assets/react.svg" style="width: 100px; margin-right: 20px" />
+  <img src="src/assets/streamovie-details-page.png" style="width: 100px; margin-right: 20px" />
+</a>
+
+
 <br/>
 
 <strong style="display: flex; align-items: center; justify-content: space-between; font-size: 18px;">💎 Roadmap<a href="#top" name="roadmap" style="font-size: 20px;">🔝</a></strong>
