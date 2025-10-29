@@ -25,13 +25,13 @@
   🅾️🅾️🅾️🅾️🅾️🅾️🅾️🅾️
   
   
-  <a href="#Gem-Roadmap">💎 Roadmap</a>
+  <a href="#--roadmap">💎 Roadmap</a>
   <span>&nbsp;|&nbsp;<span/>
   <a href="#-prerequisites-warning">⚠️ Prerequisites</a>         
   <span>&nbsp;|&nbsp;<span/>
   <a href="#-how-to-use-grey_question">❔ How To Use</a>
   <!-- <span>|<span/> -->
-  <a href="#contruction">🏗️ Project Architecture</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-%EF%B8%8F-project-architecture">🏗️ Project Architecture</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#-prerequisites-warning">⚠️ Prerequisites</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
 </p>
 
