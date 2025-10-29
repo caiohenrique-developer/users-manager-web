@@ -11,8 +11,8 @@
   🎬 Streamovie, an application to explore movies, create favorites lists, and discover new content via TMDB API.
 </h5>
 
-<p align="center">
-  <a href="#-techs-flying_saucer" style="font-size: 12px;">🛸 Techs</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<p align="center" style="font-size: 12px;">
+  <a href="#-techs-flying_saucer">🛸 Techs</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-prerequisites-warning" style="font-size: 12px;">⚠️ Prerequisites</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#-how-to-use-grey_question" style="font-size: 12px;">❔ How To Use</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-badges-bookmark" style="font-size: 12px;">🔖 Badges</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
