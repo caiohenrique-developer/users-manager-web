@@ -43,7 +43,7 @@
 
 <br><br>
 
-#### [🔝](#top) Roadmap
+#### [🔝](#top) 💎 Roadmap
 
 - [x] Base structure with React + Vite + TypeScript  
 - [x] Explore popular movies from the TMDB API
