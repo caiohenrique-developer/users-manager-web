@@ -43,7 +43,7 @@
 
 <br><br>
 
-#### Roadmap [🔝](#top)
+#### [🔝](#top) Roadmap
 
 - [x] Base structure with React + Vite + TypeScript  
 - [x] Explore popular movies from the TMDB API
@@ -110,7 +110,7 @@
 
 <br/>
 
-#### 🏗️ Project Architecture<a href="#top"><p align="right">🔝<p/></a>
+#### <a href="#top"><p align="right">🔝<p/></a> 🏗️ Project Architecture
 TST
 #### Project Architecture [🔝](#top)
 <strong style="font-size: 18px;">🏗️ Project Architecture<a href="#top" name="roadmap" style="font-size: 18px;">🔝</a></strong>
