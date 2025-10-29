@@ -31,7 +31,7 @@
   <span>&nbsp;|&nbsp;<span/>
   <a href="#-how-to-use-grey_question">❔ How To Use</a>
   <!-- <span>|<span/> -->
-  <a href="#-Project-Architecture">⚠️ Prerequisites</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-Project-Architecture">🏗️ Project Architecture</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#-prerequisites-warning">⚠️ Prerequisites</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
 </p>
 
