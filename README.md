@@ -11,6 +11,8 @@
   🎬 Streamovie, an application to explore movies, create favorites lists, and discover new content via TMDB API.
 </h5>
 
+<br><br>
+
 <p align="center" style="font-size: 12px;">
   <a href="#-techs-flying_saucer" style="font-size: 12px;">🛸 Techs</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-prerequisites-warning" style="font-size: 12px;">⚠️ Prerequisites</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -108,7 +110,9 @@
 
 <br/>
 
-## [🔝](#top) Project Architecture
+#### 🏗️ Project Architecture<a href="#top"><p align="right">🔝<p/></a>
+TST
+#### Project Architecture [🔝](#top)
 <strong style="font-size: 18px;">🏗️ Project Architecture<a href="#top" name="roadmap" style="font-size: 18px;">🔝</a></strong>
 
 ```
