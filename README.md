@@ -18,10 +18,9 @@
   <a href="#-badges-bookmark">🔖 Badges</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license-closed_lock_with_key">🔐 License</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-contact-me-phone">☎ Contact Me</a> -->
-  <a href="#-roadmap">💎 Roadmap</a>
-  <a href="#-Roadmap">💎 Roadmap 2</a>
+  <a href="#-Roadmap">💎 Roadmap</a>
   <span>&nbsp;|&nbsp;<span/>
-  <a href="#-prerequisites-warning">⚠️ Prerequisites</a>
+  <a href="#-prerequisites-warning">⚠️ Prerequisites</a>         
   <span>&nbsp;|&nbsp;<span/>
   <a href="#-how-to-use-grey_question">❔ How To Use</a>
   <!-- <span>|<span/> -->
@@ -29,41 +28,15 @@
   <a href="#-prerequisites-warning">⚠️ Prerequisites</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
 </p>
 
-<br />
-
-alt text
-![alt text](src/assets/streamovie-details-page.png)
-alt text RAW
-![alt text](https://github.com/caiohenrique-developer/users-manager-web/blob/dev/src/assets/streamovie-details-page.png?raw=true)
+<br><br><br><br>
 
 <p align="center">
-  <img alt="Streamovie background image" src="src/assets/streamovie-details-page.png" width="80%" />
+  <img alt="Streamovie background image" src="src/assets/streamovie-details-page.png" width="90%" />
 </p>
 
-<p align="center">
-  <img alt="Streamovie background image" src="src/assets/logo-google.svg" width="100px" />
-</p>
+<br><br>
 
-<a href="https://streamovie.yourdomain.com">
-  <img alt="logo-facebook.svg" src="src/assets/logo-facebook.svg" style="width: 100px; margin-right: 20px" />
-</a>
-
-<a href="https://streamovie.yourdomain.com">
-  <img alt="streamovie logo 2 svg" src="src/assets/Streamovie-logo-2.svg" style="width: 100px; margin-right: 20px" />
-  <img alt="react.svg" src="src/assets/react.svg" style="width: 100px; margin-right: 20px" />
-  <img alt="streamovie png" src="src/assets/streamovie-details-page.png" style="width: 100px; margin-right: 20px" />
-</a>
-
-
-ROUNDED
-<p align="center">
-  <img alt="Streamovie background image" src="src/assets/streamovie-details-page.png" width="80%" style="border-radius: 30px" />
-</p>
-
-<br/>
-
-## [🔝](#top) Roadmap
-<strong style="display: flex; align-items: center; justify-content: space-between; font-size: 18px;">💎 Roadmap<a href="#top" name="roadmap" style="font-size: 20px;">🔝</a></strong>
+#### Roadmap [🔝](#top)
 
 - [x] Base structure with React + Vite + TypeScript  
 - [x] Explore popular movies from the TMDB API
@@ -80,7 +53,7 @@ ROUNDED
 <br />
 
 <!-- ## [🔝](#top) Prerequisites :warning: -->
-<strong style="display: flex; align-items: center; justify-content: space-between; font-size: 18px;">📂 Pages structure<a href="#top" name="roadmap" style="font-size: 20px;">🔝</a></strong>
+<strong style="font-size: 18px;">📂 Pages structure<a href="#top" name="roadmap" style="font-size: 18px;">🔝</a></strong>
 
 ###### 🏠 Home (`/`)
 <details open> <summary>Collapsible 🕹️<sup>🤏</sup></summary>
@@ -96,7 +69,7 @@ ROUNDED
   
 </details>
 
-###### 🎞️ Detalhes do Filme (`/movie/:id`)
+###### 🎞️ Move details (`/movie/:id`)
 <details open> <summary>Collapsible 🕹️<sup>🤏</sup></summary>
 
 - Large image on the left and content on the right
@@ -105,8 +78,7 @@ ROUNDED
 
 </details>
 
-
-###### ❤️ Favoritos (`/favorites`)
+###### ❤️ Favorites (`/favorites`)
 <details open> <summary>Collapsible 🕹️<sup>🤏</sup></summary>
 
 - Grid layout similar to the Home page
@@ -119,7 +91,7 @@ ROUNDED
 
 </details>
 
-###### 🔍 Busca (`/search?q=termo`)
+###### 🔍 Search (`/search?q=termo`)
 <details open> <summary>Collapsible 🕹️<sup>🤏</sup></summary>
 
 - Synchronized search bar
@@ -132,7 +104,7 @@ ROUNDED
 <br/>
 
 ## [🔝](#top) Project Architecture
-<strong style="display: flex; align-items: center; justify-content: space-between; font-size: 18px;">🏗️ Project Architecture<a href="#top" name="roadmap" style="font-size: 20px;">🔝</a></strong>
+<strong style="font-size: 18px;">🏗️ Project Architecture<a href="#top" name="roadmap" style="font-size: 18px;">🔝</a></strong>
 
 ```
 /src
@@ -157,7 +129,7 @@ ROUNDED
 
 <br/>
 
-<strong style="display: flex; align-items: center; justify-content: space-between; font-size: 18px;">🛸 Techs<a href="#top" name="technologies" style="font-size: 20px;">🔝</a></strong>
+<strong style="font-size: 18px;">🛸 Techs<a href="#top" name="technologies" style="font-size: 18px;">🔝</a></strong>
 
 This project was developed with the following technologies:
 
@@ -188,7 +160,7 @@ This project was developed with the following technologies:
 
 <br/>
 
-<strong style="display: flex; align-items: center; justify-content: space-between; font-size: 18px;">⚙️ API — The Movie Database (TMDB)<a href="#top" name="roadmap" style="font-size: 20px;">🔝</a></strong>
+<strong style="font-size: 18px;">⚙️ API — The Movie Database (TMDB)<a href="#top" name="roadmap" style="font-size: 18px;">🔝</a></strong>
 
 The application consumes the [API do TMDB](https://developers.themoviedb.org/3) to list, search, and display detailed information about movies.
 You need to create a free account and generate your own **API Access Token**.
@@ -203,7 +175,7 @@ You need to create a free account and generate your own **API Access Token**.
 
 <br/>
 
-<strong style="display: flex; align-items: center; justify-content: space-between; font-size: 18px;">⚠️ Prerequisites<a href="#top" name="roadmap" style="font-size: 20px;">🔝</a></strong>
+<strong style="font-size: 18px;">⚠️ Prerequisites<a href="#top" name="roadmap" style="font-size: 18px;">🔝</a></strong>
 
 Before running this project locally, you need to have:
 
@@ -222,13 +194,13 @@ Make sure you have a valid TMDB API Access Token and your environment set up.
 
 ###### 🧾 .env.example
 ```bash
-VITE_TMDB_API_KEY=your_api_key_here
+VITE_TMDB_API_ACCESS_TOKEN=your_api_access_token
 VITE_TMDB_API_URL=https://api.themoviedb.org/3
 ```
 
 <br/>
 
-<strong style="display: flex; align-items: center; justify-content: space-between; font-size: 18px;">❔ How To Use<a href="#top" name="roadmap" style="font-size: 20px;">🔝</a></strong>
+<strong style="font-size: 18px;">❔ How To Use<a href="#top" name="roadmap" style="font-size: 18px;">🔝</a></strong>
 
 _From your `command line` follow these steps..._
 
@@ -272,7 +244,7 @@ Don't forget to create your .env file based on .env.example
 
 <br/>
 
-<strong style="display: flex; align-items: center; justify-content: space-between; font-size: 18px;">🔖 Badges<a href="#top" name="roadmap" style="font-size: 20px;">🔝</a></strong>
+<strong style="font-size: 18px;">🔖 Badges<a href="#top" name="roadmap" style="font-size: 18px;">🔝</a></strong>
 
 <p align="center"> 
   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/caiohenrique-developer/streamovie"> 
@@ -290,7 +262,7 @@ Don't forget to create your .env file based on .env.example
 
 <br>
 
-<strong style="display: flex; align-items: center; justify-content: space-between; font-size: 18px;">☎ Contact Me<a href="#top" name="roadmap" style="font-size: 20px;">🔝</a></strong>
+<strong style="font-size: 18px;">☎ Contact Me<a href="#top" name="roadmap" style="font-size: 18px;">🔝</a></strong>
 
 <blockquote align="center">
   “Always running in search of new movies!” <br> Done with ☕ by Caio Henrique 👇 <a href="#-contact-me-phone">Get in touch!</a>
