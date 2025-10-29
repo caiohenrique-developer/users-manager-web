@@ -13,24 +13,24 @@
 
 <p align="center" style="font-size: 12px;">
   <a href="#-techs-flying_saucer">🛸 Techs</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-prerequisites-warning" style="font-size: 12px;">⚠️ Prerequisites</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-how-to-use-grey_question" style="font-size: 12px;">❔ How To Use</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-badges-bookmark" style="font-size: 12px;">🔖 Badges</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license-closed_lock_with_key" style="font-size: 12px;">🔐 License</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-contact-me-phone" style="font-size: 12px;">☎ Contact Me</a>
+  <a href="#-prerequisites-warning">⚠️ Prerequisites</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-how-to-use-grey_question">❔ How To Use</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-badges-bookmark">🔖 Badges</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license-closed_lock_with_key">🔐 License</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-contact-me-phone">☎ Contact Me</a>
 
   
   🅾️🅾️🅾️🅾️🅾️🅾️🅾️🅾️
   
   
-  <a href="#-Roadmap" style="font-size: 12px;">💎 Roadmap</a>
+  <a href="#-Roadmap">💎 Roadmap</a>
   <span>&nbsp;|&nbsp;<span/>
-  <a href="#-prerequisites-warning" style="font-size: 12px;">⚠️ Prerequisites</a>         
+  <a href="#-prerequisites-warning">⚠️ Prerequisites</a>         
   <span>&nbsp;|&nbsp;<span/>
-  <a href="#-how-to-use-grey_question" style="font-size: 12px;">❔ How To Use</a>
+  <a href="#-how-to-use-grey_question">❔ How To Use</a>
   <!-- <span>|<span/> -->
-  <a href="#-Project-Architecture" style="font-size: 12px;">⚠️ Prerequisites</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-prerequisites-warning" style="font-size: 12px;">⚠️ Prerequisites</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-Project-Architecture">⚠️ Prerequisites</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-prerequisites-warning">⚠️ Prerequisites</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
 </p>
 
 <br><br><br>
