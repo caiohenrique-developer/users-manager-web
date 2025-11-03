@@ -14,25 +14,27 @@
 <br><br>
 
 <p align="center" style="font-size: 12px;">
-  <a href="#-techs-flying_saucer" style="font-size: 12px;">🛸 Techs</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-prerequisites-warning" style="font-size: 12px;">⚠️ Prerequisites</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-how-to-use-grey_question" style="font-size: 12px;">❔ How To Use</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-badges-bookmark" style="font-size: 12px;">🔖 Badges</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license-closed_lock_with_key" style="font-size: 12px;">🔐 License</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-contact-me-phone" style="font-size: 12px;">☎ Contact Me</a>
-
-  
-  🅾️🅾️🅾️🅾️🅾️🅾️🅾️🅾️
-  
-  
   <a href="#--roadmap">💎 Roadmap</a>
   <span>&nbsp;|&nbsp;<span/>
-  <a href="#-prerequisites-warning">⚠️ Prerequisites</a>         
+  <a href="#">📂 Pages structure</a>
   <span>&nbsp;|&nbsp;<span/>
-  <a href="#-how-to-use-grey_question">❔ How To Use</a>
-  <!-- <span>|<span/> -->
-  <a href="#-%EF%B8%8F-project-architecture">🏗️ Project Architecture</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-prerequisites-warning">⚠️ Prerequisites</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-%EF%B8%8F-project-architecture">🏗️ Project Architecture</a>
+  <a href="#%EF%B8%8F-project-architecture-">🏗️ Project Architecture</a>
+  <a href="#-tst">🏗️ Project Architecture</a>
+  <span>&nbsp;|&nbsp;<span/>
+  <a href="#">🛸 Techs</a>
+  <span>&nbsp;|&nbsp;<span/>
+  <a href="#">⚙️ API — The Movie Database (TMDB)</a>
+</p>
+
+<p align="center" style="font-size: 12px;">
+  <a href="#">⚠️ Prerequisites</a>
+  <span>&nbsp;|&nbsp;<span/>
+  <a href="#">❔ How To Use</a>
+  <span>&nbsp;|&nbsp;<span/>
+  <a href="#">🔖 Badges</a>
+  <span>&nbsp;|&nbsp;<span/>
+  <a href="#">☎ Contact Me</a>
 </p>
 
 <br><br><br>
@@ -59,10 +61,9 @@
 
 <br />
 
-<!-- ## [🔝](#top) Prerequisites :warning: -->
-<strong style="font-size: 18px;">📂 Pages structure<a href="#top" name="roadmap" style="font-size: 18px;">🔝</a></strong>
+#### [🔝](#top) 📂 Pages structure
 
-###### 🏠 Home (`/`)
+<sub>🏠 Home (`/`)</sub>
 <details open> <summary>Collapsible 🕹️<sup>🤏</sup></summary>
 
 - Fixed header with logo, global search bar, and navigation menu
@@ -76,7 +77,7 @@
   
 </details>
 
-###### 🎞️ Move details (`/movie/:id`)
+<sub>🎞️ Move details (`/movie/:id`)</sub>
 <details open> <summary>Collapsible 🕹️<sup>🤏</sup></summary>
 
 - Large image on the left and content on the right
@@ -85,7 +86,7 @@
 
 </details>
 
-###### ❤️ Favorites (`/favorites`)
+<sub>❤️ Favorites (`/favorites`)</sub>
 <details open> <summary>Collapsible 🕹️<sup>🤏</sup></summary>
 
 - Grid layout similar to the Home page
@@ -98,7 +99,7 @@
 
 </details>
 
-###### 🔍 Search (`/search?q=termo`)
+<sub>🔍 Search (`/search?q=termo`)</sub>
 <details open> <summary>Collapsible 🕹️<sup>🤏</sup></summary>
 
 - Synchronized search bar
@@ -110,11 +111,11 @@
 
 <br/>
 
-#### <a href="#top"><p align="right">🔝<p/></a> 🏗️ Project Architecture
-#### <a href="#top"><p align="right">🔝<p/></a> Project Architecture
-TST
-#### Project Architecture [🔝](#top)
-<strong style="font-size: 18px;">🏗️ Project Architecture<a href="#top" name="roadmap" style="font-size: 18px;">🔝</a></strong>
+#### 🔝 ESQUERDA <div align="right">🔝</div>
+
+#### 🏗️ Teste 1 <a href="#top"><img align="right" width="22" src="./src/assets/arrow up button.svg" /></a>
+
+#### 🏗️  Tste 2 <div align="right"><a href="#top"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-arrow-up-icon lucide-circle-arrow-up"><circle cx="12" cy="12" r="10"/><path d="m16 12-4-4-4 4"/><path d="M12 16V8"/></svg></a></div>
 
 ```
 /src
