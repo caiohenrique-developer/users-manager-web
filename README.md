@@ -258,7 +258,7 @@ Don't forget to create your .env file based on .env.example
 
 <strong style="font-size: 18px;">🔖 Badges<a href="#top" name="roadmap" style="font-size: 18px;">🔝</a></strong>
 
-<p align="center"> 
+<p align="center">
   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/caiohenrique-developer/streamovie"> 
   <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/caiohenrique-developer/streamovie"> 
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white"/> 
@@ -282,7 +282,7 @@ Don't forget to create your .env file based on .env.example
 
 <br>
 
-<p>
+<p align="center">
   <a href="https://linktr.ee/caio.hsc"> 
     <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/Caio%20Henrique-0077B5?logo=linkedin&logoColor=white&style=flat-square" /> 
   </a> 
