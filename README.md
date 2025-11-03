@@ -13,7 +13,7 @@
 
 <br><br>
 
-<p align="center" style="font-size: 12px;">
+<p align="center">
   <a href="#-roadmap-">💎 Roadmap</a>
   <span>&nbsp;|&nbsp;<span/>
   <a href="#-pages-structure-">📂 Pages structure</a>
@@ -22,10 +22,10 @@
   <span>&nbsp;|&nbsp;<span/>
   <a href="#-techs-">🛸 Techs</a>
   <span>&nbsp;|&nbsp;<span/>
-  <a href="#%EF%B8%8F-api--the-movie-database-tmdb-">⚙️ API — The Movie Database (TMDB)</a>
+  <a href="#%EF%B8%8F-tmdb-api-">⚙️ TMDB (API)</a>
 </p>
 
-<p align="center" style="font-size: 12px;">
+<p align="center">
   <a href="#%EF%B8%8F-prerequisites-">⚠️ Prerequisites</a>
   <span>&nbsp;|&nbsp;<span/>
   <a href="#-how-to-use-">❔ How To Use</a>
@@ -165,7 +165,7 @@ This project was developed with the following technologies:
 
 <br/>
 
-#### ⚙️ API — The Movie Database (TMDB) <a href="#top"><img align="right" width="22" src="./src/assets/arrow up button.svg" /></a>
+#### ⚙️ TMDB (API) <a href="#top"><img align="right" width="22" src="./src/assets/arrow up button.svg" /></a>
 
 The application consumes the [API do TMDB](https://developers.themoviedb.org/3) to list, search, and display detailed information about movies.
 You need to create a free account and generate your own **API Access Token**.
