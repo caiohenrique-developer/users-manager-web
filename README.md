@@ -249,8 +249,10 @@ Don't forget to create your .env file based on .env.example
 
 <br/>
 
-🚀 Production URL: https://streamovie-psi.vercel.app/
-<img align="right" src="https://img.shields.io/badge/Project%20Status%20-🚀%20(Production)%20🚀-2C8EBB?style=flat&logo=statuspage&logoColor=white&color=blue"/>
+[![Deploy with Vercel](https://vercel.com/button)](https://streamovie-psi.vercel.app)
+
+🚀 _Or go to [**streamovie-psi.vercel.app**](https://streamovie-psi.vercel.app) to see the project in a production environment._
+<img align="right" src="https://img.shields.io/badge/Project%20Status%20-Production%20🚀-2C8EBB?style=flat&logo=statuspage&logoColor=white&color=blue"/>
 
 <br/>
 
