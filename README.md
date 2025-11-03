@@ -14,7 +14,7 @@
 <br><br>
 
 <p align="center" style="font-size: 12px;">
-  <a href="#--roadmap">💎 Roadmap</a>
+  <a href="#">💎 Roadmap</a>
   <span>&nbsp;|&nbsp;<span/>
   <a href="#">📂 Pages structure</a>
   <span>&nbsp;|&nbsp;<span/>
@@ -43,7 +43,7 @@
 
 <br><br>
 
-#### [🔝](#top) 💎 Roadmap
+#### 💎 Roadmap <a href="#top"><img align="right" width="22" src="./src/assets/arrow up button.svg" /></a>
 
 - [x] Base structure with React + Vite + TypeScript  
 - [x] Explore popular movies from the TMDB API
@@ -59,7 +59,7 @@
 
 <br />
 
-#### [🔝](#top) 📂 Pages structure
+#### 📂 Pages structure <a href="#top"><img align="right" width="22" src="./src/assets/arrow up button.svg" /></a>
 
 <sub>🏠 Home (`/`)</sub>
 <details open> <summary>Collapsible 🕹️<sup>🤏</sup></summary>
@@ -134,7 +134,7 @@
 
 <br/>
 
-<strong style="font-size: 18px;">🛸 Techs<a href="#top" name="technologies" style="font-size: 18px;">🔝</a></strong>
+#### 🛸 Techs <a href="#top"><img align="right" width="22" src="./src/assets/arrow up button.svg" /></a>
 
 This project was developed with the following technologies:
 
@@ -165,7 +165,7 @@ This project was developed with the following technologies:
 
 <br/>
 
-<strong style="font-size: 18px;">⚙️ API — The Movie Database (TMDB)<a href="#top" name="roadmap" style="font-size: 18px;">🔝</a></strong>
+#### ⚙️ API — The Movie Database (TMDB) <a href="#top"><img align="right" width="22" src="./src/assets/arrow up button.svg" /></a>
 
 The application consumes the [API do TMDB](https://developers.themoviedb.org/3) to list, search, and display detailed information about movies.
 You need to create a free account and generate your own **API Access Token**.
@@ -180,7 +180,7 @@ You need to create a free account and generate your own **API Access Token**.
 
 <br/>
 
-<strong style="font-size: 18px;">⚠️ Prerequisites<a href="#top" name="roadmap" style="font-size: 18px;">🔝</a></strong>
+#### ⚠️ Prerequisites <a href="#top"><img align="right" width="22" src="./src/assets/arrow up button.svg" /></a>
 
 Before running this project locally, you need to have:
 
@@ -205,7 +205,7 @@ VITE_TMDB_API_URL=https://api.themoviedb.org/3
 
 <br/>
 
-<strong style="font-size: 18px;">❔ How To Use<a href="#top" name="roadmap" style="font-size: 18px;">🔝</a></strong>
+#### ❔ How To Use <a href="#top"><img align="right" width="22" src="./src/assets/arrow up button.svg" /></a>
 
 _From your `command line` follow these steps..._
 
@@ -251,7 +251,7 @@ Don't forget to create your .env file based on .env.example
 
 <br/>
 
-<strong style="font-size: 18px;">🔖 Badges<a href="#top" name="roadmap" style="font-size: 18px;">🔝</a></strong>
+#### 🔖 Badges <a href="#top"><img align="right" width="22" src="./src/assets/arrow up button.svg" /></a>
 
 <p align="center">
   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/caiohenrique-developer/streamovie"> 
@@ -269,7 +269,7 @@ Don't forget to create your .env file based on .env.example
 
 <br>
 
-<strong style="font-size: 18px;">☎ Contact Me<a href="#top" name="roadmap" style="font-size: 18px;">🔝</a></strong>
+#### ☎ Contact Me <a href="#top"><img align="right" width="22" src="./src/assets/arrow up button.svg" /></a>
 
 <blockquote align="center">
   “Always running in search of new movies!” <br> Done with ☕ by Caio Henrique 👇 <a href="#-contact-me-phone">Get in touch!</a>
