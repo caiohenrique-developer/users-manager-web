@@ -4,7 +4,6 @@
   <a href="https://streamovie-psi.vercel.app">
     <img alt="Streamovie logotipo" src="src/assets/Streamovie-logo-2.svg" style="width: 100px; margin-right: 20px" />
   </a>
-  <strong align="">Streamovie<strong/>
 </div>
 
 <h5 align="center">
@@ -14,25 +13,29 @@
 <br><br>
 
 <p align="center">
-  <a href="#-roadmap-">💎 Roadmap</a>
-  <span>&nbsp;|&nbsp;<span/>
-  <a href="#-pages-structure-">📂 Pages structure</a>
-  <span>&nbsp;|&nbsp;<span/>
-  <a href="#%EF%B8%8F-project-architecture-">🏗️ Project Architecture</a>
-  <span>&nbsp;|&nbsp;<span/>
-  <a href="#-techs-">🛸 Techs</a>
-  <span>&nbsp;|&nbsp;<span/>
-  <a href="#%EF%B8%8F-tmdb-api-">⚙️ TMDB (API)</a>
+  <sub>
+    <a href="#-roadmap-">💎 Roadmap</a>
+    <span>&nbsp;|&nbsp;<span/>
+    <a href="#-pages-structure-">📂 Pages structure</a>
+    <span>&nbsp;|&nbsp;<span/>
+    <a href="#%EF%B8%8F-project-architecture-">🏗️ Project Architecture</a>
+    <span>&nbsp;|&nbsp;<span/>
+    <a href="#-techs-">🛸 Techs</a>
+    <span>&nbsp;|&nbsp;<span/>
+    <a href="#%EF%B8%8F-tmdb-api-">⚙️ TMDB (API)</a>
+  </sub>
 </p>
 
 <p align="center">
-  <a href="#%EF%B8%8F-prerequisites-">⚠️ Prerequisites</a>
-  <span>&nbsp;|&nbsp;<span/>
-  <a href="#-how-to-use-">❔ How To Use</a>
-  <span>&nbsp;|&nbsp;<span/>
-  <a href="#-badges-">🔖 Badges</a>
-  <span>&nbsp;|&nbsp;<span/>
-  <a href="#-contact-me-">☎ Contact Me</a>
+  <sup>
+    <a href="#%EF%B8%8F-prerequisites-">⚠️ Prerequisites</a>
+    <span>&nbsp;|&nbsp;<span/>
+    <a href="#-how-to-use-">❔ How To Use</a>
+    <span>&nbsp;|&nbsp;<span/>
+    <a href="#-badges-">🔖 Badges</a>
+    <span>&nbsp;|&nbsp;<span/>
+    <a href="#-contact-me-">☎ Contact Me</a>
+  </sup>
 </p>
 
 <br><br><br>
