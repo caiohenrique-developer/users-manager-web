@@ -14,25 +14,25 @@
 <br><br>
 
 <p align="center" style="font-size: 12px;">
-  <a href="#">💎 Roadmap</a>
+  <a href="#-roadmap-">💎 Roadmap</a>
   <span>&nbsp;|&nbsp;<span/>
-  <a href="#">📂 Pages structure</a>
+  <a href="#-pages-structure-">📂 Pages structure</a>
   <span>&nbsp;|&nbsp;<span/>
   <a href="#%EF%B8%8F-project-architecture-">🏗️ Project Architecture</a>
   <span>&nbsp;|&nbsp;<span/>
-  <a href="#">🛸 Techs</a>
+  <a href="#-techs-">🛸 Techs</a>
   <span>&nbsp;|&nbsp;<span/>
-  <a href="#">⚙️ API — The Movie Database (TMDB)</a>
+  <a href="#%EF%B8%8F-api--the-movie-database-tmdb-">⚙️ API — The Movie Database (TMDB)</a>
 </p>
 
 <p align="center" style="font-size: 12px;">
-  <a href="#">⚠️ Prerequisites</a>
+  <a href="#%EF%B8%8F-prerequisites-">⚠️ Prerequisites</a>
   <span>&nbsp;|&nbsp;<span/>
-  <a href="#">❔ How To Use</a>
+  <a href="#-how-to-use-">❔ How To Use</a>
   <span>&nbsp;|&nbsp;<span/>
-  <a href="#">🔖 Badges</a>
+  <a href="#-badges-">🔖 Badges</a>
   <span>&nbsp;|&nbsp;<span/>
-  <a href="#">☎ Contact Me</a>
+  <a href="#-contact-me-">☎ Contact Me</a>
 </p>
 
 <br><br><br>
