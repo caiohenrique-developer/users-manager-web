@@ -44,7 +44,7 @@
   <img alt="Streamovie background image" src="src/assets/streamovie-details-page.png" width="90%" />
 </p>
 
-<br><br>
+<br><br><br>
 
 #### 💎 Roadmap <a href="#top"><img align="right" width="22" src="./src/assets/arrow up button.svg" /></a>
 
@@ -214,28 +214,28 @@ _From your `command line` follow these steps..._
 
 ###### Clone the repository and start the project locally:
 ```bash
-$ git clone https://github.com/caiohenrique-developer/streamovie
-$ cd streamovie
+git clone https://github.com/caiohenrique-developer/streamovie
+cd streamovie
 ```
 
 ###### Install dependencies:
 ```bash
-$ yarn
+yarn
 ```
 
 ###### ...or (if you prefer npm):
 ```bash
-$ npm install
+npm install
 ```
 
 ###### Start the development server
 ```bash
-$ yarn dev
+yarn dev
 ```
 
 ###### ...or (if you prefer npm):
 ```bash
-$ npm run dev
+npm run dev
 ```
 
 _You'll be able to see the URL http://localhost:{port} on your command line._
